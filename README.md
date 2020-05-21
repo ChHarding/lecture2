@@ -1,4 +1,4 @@
 # lecture2
 test for using git with VS
-- do stuff
-- profit!
+
+- Did some changes
