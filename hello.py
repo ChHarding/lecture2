@@ -1,7 +1,6 @@
 # test for github
-print("hello World")
 
 for a in range(5):
-    print(a)
+    print(a + 3)
 
-print("done")
+print("done!")
